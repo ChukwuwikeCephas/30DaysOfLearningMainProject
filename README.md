@@ -16,7 +16,7 @@ Data was sourced from the github repository of @oyinbooke, which was made availa
 
 -----
 
-# Data Transformation:
+# Data Transformation/Modelling:
 
 Key transformations carried out were promoting headers,changing data types. Also, Data analysis expressions like the "If" and "Calculate" functions were used to manipulate the data so as to get a valuable insight from our dataset. In addition, knowing how important it is for us to have a highly time intelligent solution, the calendar table was created with the "CalendarAuto" function followed by creating relationships between the various tables 
 
