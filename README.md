@@ -15,9 +15,13 @@ Key transformations carried out were promoting headers,changing data types. Also
  ![Power_BI_Flight_Project_on_Course - Power Query Editor 26_07_2022 8_34_48 am](https://user-images.githubusercontent.com/107093714/180952361-c1e9a588-284a-4e7f-bb44-ae806ab50b30.png)
 
 
-#Key Findings and Recommendations
-  Pictures of Visuals
+# Key Findings and Recommendations
+
+1)Airline "WN" has the highest share of flight activities,meaning they have more influx of customers with Airline "HA" having the least patronize. Hence, there may be need for "FA" to learn some of the strategies applied by Airline "WN" and then re-strategize, so as to gain more customers.
   
+2) Also, it has been discovered that most of the patronize by airlines are usually highest during the early days of the week especially tuesdays, which is also the day that experiences the most delay. This means generally, there is a level of inefficiency to manage the hug number of customers coming to the airport.
+  - A key recommendation will be for the airlines to have a booking platform where customers can make bookings before the arrival, so adequate preparation would have been made, knowing fully well the number of customers expected
+    
   ![Power_BI_Flight_Project_on_Course - Power BI Desktop 25_07_2022 11_41_54 pm](https://user-images.githubusercontent.com/107093714/180957307-d7a33afb-5f02-466b-acbe-b19ab48818b5.png)
   
  -----
