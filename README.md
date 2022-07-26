@@ -23,9 +23,10 @@ Key transformations carried out were promoting headers,changing data types. Also
  -----
  ![Power_BI_Flight_Project_on_Course - Power BI Desktop 25_07_2022 11_41_42 pm](https://user-images.githubusercontent.com/107093714/180962630-fe77a7c9-a8e2-4961-b198-9fa9f325927c.png)
 -----
+![Power_BI_Flight_Project_on_Course - Power BI Desktop 25_07_2022 11_41_32 pm](https://user-images.githubusercontent.com/107093714/180974930-399ef837-ba31-4289-be8a-7a902fbe4a98.png)
 
 -----
-![Power_BI_Flight_Project_on_Course - Power BI Desktop 25_07_2022 11_41_19 pm](https://user-images.githubusercontent.com/107093714/180963687-13f681d2-3519-4f8d-a761-0bea09e2fc94.png)
+
 -----
 ![Power_BI_Flight_Project_on_Course - Power BI Desktop 25_07_2022 11_41_06 pm](https://user-images.githubusercontent.com/107093714/180964773-09bb7d31-2b5b-491d-9f86-6d75034da4ef.png)
 
