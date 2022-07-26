@@ -4,14 +4,17 @@ This is a project stemming from the 30DaysOfLearning experience
 -----
 
 # Project Objective:
+
 To describe the dataset of an airplane and airline events so as to provide quality insights for decisions
 -----
 
 # Data Sourcing :
+
 Data was sourced from the github repository of @oyinbooke, which was made available during the Microsoft 30 Days of Learning
 -----
 
 # Data Transformation:
+
 Key transformations carried out were promoting headers,changing data types. Also, Data analysis expressions like the "If" and "Calculate" functions were used to manipulate the data so as to get a valuable insight from our dataset. In addition, knowing how important it is for us to have a highly time intelligent solution, the calendar table was created with the "CalendarAuto" function followed by creating relationships between the various tables 
 -----
  
@@ -21,7 +24,6 @@ Key transformations carried out were promoting headers,changing data types. Also
 # Key Findings and Recommendations
 
 1)Airline "WN" has the highest share of flight activities,meaning they have more influx of customers with Airline "HA" having the least patronize. Hence, there may be need for "FA" to learn some of the strategies applied by Airline "WN" and then re-strategize, so as to gain more customers.
-  
 2) Also, it has been discovered that most of the patronize by airlines are usually highest during the early days of the week especially tuesdays, which is also the day that experiences the most delay. This means generally, there is a level of inefficiency to manage the hug number of customers coming to the airport.
   - A key recommendation will be for the airlines to have a booking platform where customers can make bookings before the arrival, so adequate preparation would have been made, knowing fully well the number of customers expected
     
